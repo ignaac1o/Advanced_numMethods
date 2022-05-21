@@ -13,7 +13,12 @@ for i in range(X.shape[0]):
 
 X=np.round(X,2)
 
-
+supplyer=np.empty(20)
+i=0
+while(i<20):
+    supplyer[i]=np.random.randint(900,1100)
+    i+=1
+supplyer = supplyer.astype(int)
 
 model = ConcreteModel()
 
@@ -46,7 +51,7 @@ model.min_city_all = Constraint(model.I, rule=min_city_all)
 
 #Min per city
 def supply(model, j): 
-	return sum(model.x[i,j] for i in model.I) == 1000  
+	return sum(model.x[i,j] for i in model.I) == supplyer[j]  
 model.supply = Constraint(model.J, rule=supply)
 
 
