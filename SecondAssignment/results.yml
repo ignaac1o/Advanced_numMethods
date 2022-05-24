@@ -6,12 +6,12 @@
 # ----------------------------------------------------------
 Problem: 
 - Name: unknown
-  Lower bound: 25127.73
-  Upper bound: 25127.73
+  Lower bound: 15280.37
+  Upper bound: 15280.37
   Number of objectives: 1
-  Number of constraints: 1045
+  Number of constraints: 697
   Number of variables: 481
-  Number of nonzeros: 1921
+  Number of nonzeros: 2561
   Sense: maximize
 # ----------------------------------------------------------
 #   Solver Information
@@ -24,7 +24,7 @@ Solver:
       Number of bounded subproblems: 0
       Number of created subproblems: 0
   Error rc: 0
-  Time: 0.019147872924804688
+  Time: 0.02888321876525879
 # ----------------------------------------------------------
 #   Solution Information
 # ----------------------------------------------------------
@@ -36,38 +36,36 @@ Solution:
   Message: None
   Objective:
     Obj:
-      Value: 25127.73
+      Value: 15280.369999999999
   Variable:
     Q[0,0]:
       Value: 50
     Q[0,10]:
-      Value: 200
+      Value: 206
     Q[0,11]:
-      Value: 164
+      Value: 50
     Q[0,12]:
       Value: 50
     Q[0,13]:
-      Value: 200
+      Value: 300
     Q[0,14]:
       Value: 50
     Q[0,15]:
-      Value: 200
+      Value: 227
     Q[0,16]:
       Value: 50
     Q[0,17]:
-      Value: 200
+      Value: 102
     Q[0,18]:
       Value: 50
     Q[0,19]:
       Value: 50
     Q[0,1]:
-      Value: 200
-    Q[0,2]:
-      Value: 50
+      Value: 217
     Q[0,3]:
       Value: 50
     Q[0,4]:
-      Value: 117
+      Value: 50
     Q[0,5]:
       Value: 50
     Q[0,6]:
@@ -77,39 +75,39 @@ Solution:
     Q[0,8]:
       Value: 50
     Q[0,9]:
-      Value: 119
+      Value: 50
     Q[1,0]:
-      Value: 200
+      Value: 292
     Q[1,10]:
       Value: 50
     Q[1,11]:
       Value: 50
     Q[1,12]:
-      Value: 200
+      Value: 300
     Q[1,13]:
-      Value: 128
+      Value: 50
     Q[1,14]:
-      Value: 200
+      Value: 300
     Q[1,15]:
-      Value: 144
+      Value: 50
     Q[1,16]:
-      Value: 55
+      Value: 50
     Q[1,17]:
-      Value: 200
+      Value: 300
     Q[1,18]:
       Value: 50
     Q[1,19]:
-      Value: 200
+      Value: 241
     Q[1,1]:
-      Value: 200
+      Value: 300
     Q[1,2]:
-      Value: 200
+      Value: 50
     Q[1,3]:
-      Value: 200
+      Value: 300
     Q[1,4]:
-      Value: 200
+      Value: 300
     Q[1,5]:
-      Value: 200
+      Value: 300
     Q[1,6]:
       Value: 50
     Q[1,7]:
@@ -117,19 +115,19 @@ Solution:
     Q[1,8]:
       Value: 50
     Q[1,9]:
-      Value: 200
+      Value: 300
     Q[2,0]:
-      Value: 200
+      Value: 300
     Q[2,10]:
       Value: 50
     Q[2,11]:
-      Value: 139
+      Value: 50
     Q[2,12]:
       Value: 50
     Q[2,13]:
       Value: 50
     Q[2,14]:
-      Value: 200
+      Value: 183
     Q[2,15]:
       Value: 50
     Q[2,16]:
@@ -139,19 +137,19 @@ Solution:
     Q[2,18]:
       Value: 50
     Q[2,19]:
-      Value: 123
+      Value: 50
     Q[2,1]:
-      Value: 200
+      Value: 167
     Q[2,2]:
-      Value: 138
+      Value: 50
     Q[2,3]:
-      Value: 200
+      Value: 300
     Q[2,4]:
       Value: 50
     Q[2,5]:
       Value: 50
     Q[2,6]:
-      Value: 200
+      Value: 300
     Q[2,7]:
       Value: 50
     Q[2,8]:
@@ -161,145 +159,143 @@ Solution:
     Q[3,0]:
       Value: 50
     Q[3,10]:
-      Value: 200
+      Value: 300
     Q[3,11]:
       Value: 50
     Q[3,12]:
       Value: 50
     Q[3,13]:
-      Value: 200
+      Value: 300
     Q[3,14]:
-      Value: 140
+      Value: 50
     Q[3,15]:
       Value: 50
     Q[3,16]:
-      Value: 200
+      Value: 300
     Q[3,17]:
       Value: 50
     Q[3,18]:
-      Value: 200
+      Value: 288
     Q[3,19]:
-      Value: 113
+      Value: 50
     Q[3,1]:
       Value: 50
     Q[3,2]:
-      Value: 200
+      Value: 236
     Q[3,3]:
-      Value: 200
+      Value: 98
     Q[3,4]:
       Value: 50
     Q[3,5]:
-      Value: 113
+      Value: 50
     Q[3,6]:
-      Value: 200
+      Value: 300
     Q[3,7]:
-      Value: 100
+      Value: 50
     Q[3,8]:
-      Value: 200
+      Value: 300
     Q[3,9]:
-      Value: 200
+      Value: 50
     Q[4,0]:
-      Value: 200
+      Value: 300
     Q[4,10]:
       Value: 50
     Q[4,11]:
-      Value: 200
+      Value: 143
     Q[4,12]:
       Value: 50
     Q[4,13]:
-      Value: 200
+      Value: 50
     Q[4,14]:
-      Value: 200
+      Value: 50
     Q[4,15]:
       Value: 50
     Q[4,16]:
-      Value: 200
+      Value: 300
     Q[4,17]:
-      Value: 132
-    Q[4,18]:
       Value: 50
     Q[4,19]:
       Value: 50
     Q[4,1]:
-      Value: 164
+      Value: 50
     Q[4,2]:
-      Value: 200
+      Value: 300
     Q[4,3]:
-      Value: 95
+      Value: 50
     Q[4,4]:
-      Value: 200
+      Value: 50
     Q[4,5]:
-      Value: 200
+      Value: 300
     Q[4,6]:
-      Value: 200
+      Value: 50
     Q[4,7]:
-      Value: 200
+      Value: 300
     Q[4,8]:
-      Value: 200
+      Value: 226
     Q[4,9]:
-      Value: 200
+      Value: 293
     Q[5,0]:
       Value: 50
     Q[5,10]:
-      Value: 170
+      Value: 50
     Q[5,11]:
       Value: 50
     Q[5,12]:
-      Value: 200
+      Value: 300
     Q[5,13]:
-      Value: 200
+      Value: 184
     Q[5,14]:
       Value: 50
     Q[5,15]:
-      Value: 200
+      Value: 300
     Q[5,16]:
-      Value: 200
+      Value: 50
     Q[5,17]:
-      Value: 200
+      Value: 300
     Q[5,18]:
-      Value: 100
+      Value: 50
     Q[5,19]:
       Value: 50
     Q[5,1]:
       Value: 50
     Q[5,2]:
-      Value: 200
+      Value: 300
     Q[5,3]:
-      Value: 200
+      Value: 50
     Q[5,4]:
-      Value: 200
+      Value: 300
     Q[5,5]:
-      Value: 200
+      Value: 254
     Q[5,6]:
       Value: 50
     Q[5,7]:
-      Value: 200
+      Value: 300
     Q[5,8]:
-      Value: 200
+      Value: 300
     Q[5,9]:
-      Value: 200
+      Value: 300
     Q[6,0]:
       Value: 50
     Q[6,10]:
-      Value: 200
+      Value: 300
     Q[6,11]:
-      Value: 200
+      Value: 300
     Q[6,12]:
-      Value: 148
+      Value: 50
     Q[6,13]:
       Value: 50
     Q[6,14]:
-      Value: 200
+      Value: 300
     Q[6,15]:
       Value: 50
     Q[6,16]:
-      Value: 200
+      Value: 148
     Q[6,17]:
       Value: 50
     Q[6,18]:
-      Value: 200
+      Value: 300
     Q[6,19]:
-      Value: 200
+      Value: 300
     Q[6,1]:
       Value: 50
     Q[6,2]:
@@ -307,359 +303,103 @@ Solution:
     Q[6,3]:
       Value: 50
     Q[6,4]:
-      Value: 200
+      Value: 216
     Q[6,5]:
-      Value: 200
+      Value: 50
     Q[6,6]:
-      Value: 200
+      Value: 166
     Q[6,7]:
-      Value: 200
+      Value: 195
     Q[6,8]:
       Value: 50
     Q[6,9]:
       Value: 50
-    Q[7,0]:
-      Value: 168
-    Q[7,10]:
-      Value: 50
-    Q[7,11]:
-      Value: 200
-    Q[7,12]:
-      Value: 200
-    Q[7,13]:
-      Value: 50
-    Q[7,14]:
-      Value: 50
-    Q[7,15]:
-      Value: 200
-    Q[7,16]:
-      Value: 50
-    Q[7,17]:
-      Value: 200
     Q[7,18]:
-      Value: 200
-    Q[7,19]:
-      Value: 200
-    Q[7,1]:
-      Value: 50
-    Q[7,2]:
-      Value: 50
-    Q[7,3]:
-      Value: 50
-    Q[7,4]:
-      Value: 50
-    Q[7,5]:
-      Value: 50
-    Q[7,6]:
-      Value: 106
-    Q[7,7]:
-      Value: 200
-    Q[7,8]:
-      Value: 138
-    Q[7,9]:
-      Value: 50
-    Qc[0,0,0]:
-      Value: 66
+      Value: 300
     Qc[0,0,10]:
-      Value: 200
-    Qc[0,0,11]:
-      Value: 200
-    Qc[0,0,12]:
-      Value: 50
-    Qc[0,0,13]:
-      Value: 200
-    Qc[0,0,14]:
-      Value: 50
+      Value: 94
     Qc[0,0,15]:
-      Value: 200
-    Qc[0,0,16]:
-      Value: 50
-    Qc[0,0,17]:
-      Value: 138
-    Qc[0,0,18]:
-      Value: 74
-    Qc[0,0,19]:
-      Value: 50
+      Value: 73
     Qc[0,0,1]:
-      Value: 200
+      Value: 31
     Qc[0,0,2]:
       Value: 50
-    Qc[0,0,3]:
-      Value: 50
-    Qc[0,0,4]:
-      Value: 101
-    Qc[0,0,5]:
-      Value: 50
-    Qc[0,0,6]:
-      Value: 50
-    Qc[0,0,7]:
-      Value: 50
-    Qc[0,0,8]:
-      Value: 118
-    Qc[0,0,9]:
-      Value: 200
     Qc[0,1,0]:
-      Value: 200
-    Qc[0,1,10]:
-      Value: 50
-    Qc[0,1,11]:
-      Value: 91
-    Qc[0,1,12]:
-      Value: 200
-    Qc[0,1,13]:
-      Value: 200
-    Qc[0,1,14]:
-      Value: 200
+      Value: 8
     Qc[0,1,15]:
-      Value: 200
-    Qc[0,1,16]:
-      Value: 200
-    Qc[0,1,17]:
-      Value: 200
-    Qc[0,1,18]:
-      Value: 50
+      Value: 35
     Qc[0,1,19]:
-      Value: 200
-    Qc[0,1,1]:
-      Value: 200
-    Qc[0,1,2]:
-      Value: 200
-    Qc[0,1,3]:
-      Value: 200
-    Qc[0,1,4]:
-      Value: 200
-    Qc[0,1,5]:
-      Value: 200
-    Qc[0,1,6]:
-      Value: 50
-    Qc[0,1,7]:
-      Value: 50
-    Qc[0,1,8]:
-      Value: 50
-    Qc[0,1,9]:
-      Value: 200
-    Qc[0,2,0]:
-      Value: 200
-    Qc[0,2,10]:
-      Value: 50
-    Qc[0,2,11]:
-      Value: 200
-    Qc[0,2,12]:
-      Value: 50
-    Qc[0,2,13]:
-      Value: 74
-    Qc[0,2,14]:
-      Value: 200
-    Qc[0,2,15]:
-      Value: 50
-    Qc[0,2,16]:
-      Value: 84
-    Qc[0,2,17]:
-      Value: 50
-    Qc[0,2,18]:
-      Value: 200
-    Qc[0,2,19]:
-      Value: 104
-    Qc[0,2,1]:
-      Value: 200
-    Qc[0,2,2]:
       Value: 59
-    Qc[0,2,3]:
-      Value: 200
-    Qc[0,2,4]:
-      Value: 50
-    Qc[0,2,5]:
-      Value: 50
-    Qc[0,2,6]:
-      Value: 200
-    Qc[0,2,7]:
-      Value: 50
-    Qc[0,2,8]:
-      Value: 50
-    Qc[0,2,9]:
-      Value: 50
-    Qc[0,3,0]:
-      Value: 50
-    Qc[0,3,10]:
-      Value: 200
-    Qc[0,3,11]:
-      Value: 50
-    Qc[0,3,12]:
-      Value: 50
-    Qc[0,3,13]:
-      Value: 200
-    Qc[0,3,14]:
-      Value: 174
-    Qc[0,3,15]:
-      Value: 50
-    Qc[0,3,16]:
-      Value: 200
-    Qc[0,3,17]:
-      Value: 50
+    Qc[0,1,2]:
+      Value: 10
+    Qc[0,2,14]:
+      Value: 117
+    Qc[0,2,1]:
+      Value: 133
     Qc[0,3,18]:
-      Value: 200
+      Value: 12
     Qc[0,3,19]:
-      Value: 200
-    Qc[0,3,1]:
-      Value: 50
+      Value: 39
     Qc[0,3,2]:
-      Value: 200
-    Qc[0,3,3]:
-      Value: 200
-    Qc[0,3,4]:
-      Value: 50
-    Qc[0,3,5]:
-      Value: 200
-    Qc[0,3,6]:
-      Value: 200
-    Qc[0,3,7]:
-      Value: 173
-    Qc[0,3,8]:
-      Value: 200
-    Qc[0,3,9]:
-      Value: 200
-    Qc[0,4,0]:
-      Value: 200
-    Qc[0,4,10]:
       Value: 64
+    Qc[0,3,3]:
+      Value: 162
+    Qc[0,3,5]:
+      Value: 84
+    Qc[0,3,9]:
+      Value: 47
     Qc[0,4,11]:
-      Value: 200
-    Qc[0,4,12]:
-      Value: 71
+      Value: 127
     Qc[0,4,13]:
-      Value: 200
+      Value: 40
     Qc[0,4,14]:
-      Value: 200
-    Qc[0,4,15]:
-      Value: 181
-    Qc[0,4,16]:
-      Value: 200
+      Value: 7
     Qc[0,4,17]:
-      Value: 200
+      Value: 42
     Qc[0,4,18]:
       Value: 50
-    Qc[0,4,19]:
-      Value: 50
-    Qc[0,4,1]:
-      Value: 200
-    Qc[0,4,2]:
-      Value: 200
-    Qc[0,4,3]:
-      Value: 162
     Qc[0,4,4]:
-      Value: 200
-    Qc[0,4,5]:
-      Value: 200
-    Qc[0,4,6]:
-      Value: 200
-    Qc[0,4,7]:
-      Value: 200
+      Value: 14
     Qc[0,4,8]:
-      Value: 200
+      Value: 74
     Qc[0,4,9]:
-      Value: 200
-    Qc[0,5,0]:
-      Value: 50
+      Value: 7
     Qc[0,5,10]:
-      Value: 200
-    Qc[0,5,11]:
-      Value: 50
-    Qc[0,5,12]:
-      Value: 200
+      Value: 21
     Qc[0,5,13]:
-      Value: 200
-    Qc[0,5,14]:
-      Value: 50
-    Qc[0,5,15]:
-      Value: 200
-    Qc[0,5,16]:
-      Value: 200
-    Qc[0,5,17]:
-      Value: 200
+      Value: 116
     Qc[0,5,18]:
-      Value: 200
-    Qc[0,5,19]:
-      Value: 50
-    Qc[0,5,1]:
-      Value: 69
-    Qc[0,5,2]:
-      Value: 200
-    Qc[0,5,3]:
-      Value: 200
-    Qc[0,5,4]:
-      Value: 200
+      Value: 70
     Qc[0,5,5]:
-      Value: 200
-    Qc[0,5,6]:
-      Value: 50
-    Qc[0,5,7]:
-      Value: 200
-    Qc[0,5,8]:
-      Value: 200
-    Qc[0,5,9]:
-      Value: 200
-    Qc[0,6,0]:
-      Value: 50
-    Qc[0,6,10]:
-      Value: 200
-    Qc[0,6,11]:
-      Value: 200
-    Qc[0,6,12]:
-      Value: 200
-    Qc[0,6,13]:
-      Value: 50
-    Qc[0,6,14]:
-      Value: 200
-    Qc[0,6,15]:
-      Value: 50
+      Value: 46
     Qc[0,6,16]:
-      Value: 200
-    Qc[0,6,17]:
-      Value: 50
-    Qc[0,6,18]:
-      Value: 200
-    Qc[0,6,19]:
-      Value: 200
-    Qc[0,6,1]:
-      Value: 50
-    Qc[0,6,2]:
-      Value: 50
-    Qc[0,6,3]:
-      Value: 50
+      Value: 92
     Qc[0,6,4]:
-      Value: 200
-    Qc[0,6,5]:
-      Value: 161
+      Value: 84
     Qc[0,6,6]:
-      Value: 200
+      Value: 43
     Qc[0,6,7]:
-      Value: 200
-    Qc[0,6,8]:
-      Value: 50
-    Qc[0,6,9]:
-      Value: 51
+      Value: 105
     Qc[0,7,0]:
-      Value: 200
+      Value: 156
     Qc[0,7,10]:
       Value: 50
     Qc[0,7,11]:
-      Value: 200
+      Value: 300
     Qc[0,7,12]:
-      Value: 200
+      Value: 287
     Qc[0,7,13]:
       Value: 50
     Qc[0,7,14]:
       Value: 50
     Qc[0,7,15]:
-      Value: 200
+      Value: 300
     Qc[0,7,16]:
       Value: 50
     Qc[0,7,17]:
-      Value: 200
-    Qc[0,7,18]:
-      Value: 200
+      Value: 300
     Qc[0,7,19]:
-      Value: 200
+      Value: 300
     Qc[0,7,1]:
       Value: 50
     Qc[0,7,2]:
@@ -671,315 +411,39 @@ Solution:
     Qc[0,7,5]:
       Value: 50
     Qc[0,7,6]:
-      Value: 188
+      Value: 50
     Qc[0,7,7]:
-      Value: 200
+      Value: 75
     Qc[0,7,8]:
-      Value: 200
+      Value: 94
     Qc[0,7,9]:
       Value: 50
-    Qc[1,0,0]:
-      Value: 50
-    Qc[1,0,10]:
-      Value: 200
-    Qc[1,0,11]:
-      Value: 182
-    Qc[1,0,12]:
-      Value: 50
-    Qc[1,0,13]:
-      Value: 200
-    Qc[1,0,14]:
-      Value: 50
-    Qc[1,0,15]:
-      Value: 200
-    Qc[1,0,16]:
-      Value: 50
     Qc[1,0,17]:
-      Value: 200
-    Qc[1,0,18]:
-      Value: 50
-    Qc[1,0,19]:
-      Value: 50
-    Qc[1,0,1]:
-      Value: 164
+      Value: 198
     Qc[1,0,2]:
-      Value: 50
-    Qc[1,0,3]:
-      Value: 153
-    Qc[1,0,4]:
-      Value: 50
-    Qc[1,0,5]:
-      Value: 50
-    Qc[1,0,6]:
-      Value: 50
-    Qc[1,0,7]:
-      Value: 50
-    Qc[1,0,8]:
-      Value: 50
-    Qc[1,0,9]:
-      Value: 101
-    Qc[1,1,0]:
-      Value: 200
-    Qc[1,1,10]:
-      Value: 50
-    Qc[1,1,11]:
-      Value: 50
-    Qc[1,1,12]:
-      Value: 200
-    Qc[1,1,13]:
-      Value: 50
-    Qc[1,1,14]:
-      Value: 200
-    Qc[1,1,15]:
-      Value: 59
-    Qc[1,1,16]:
-      Value: 50
-    Qc[1,1,17]:
-      Value: 200
-    Qc[1,1,18]:
-      Value: 50
-    Qc[1,1,19]:
-      Value: 125
-    Qc[1,1,1]:
-      Value: 200
-    Qc[1,1,2]:
-      Value: 50
-    Qc[1,1,3]:
-      Value: 200
-    Qc[1,1,4]:
-      Value: 200
-    Qc[1,1,5]:
-      Value: 200
-    Qc[1,1,6]:
-      Value: 50
-    Qc[1,1,7]:
-      Value: 50
-    Qc[1,1,8]:
-      Value: 50
-    Qc[1,1,9]:
-      Value: 200
-    Qc[1,2,0]:
-      Value: 200
-    Qc[1,2,10]:
-      Value: 50
-    Qc[1,2,11]:
-      Value: 50
-    Qc[1,2,12]:
-      Value: 50
-    Qc[1,2,13]:
-      Value: 50
-    Qc[1,2,14]:
-      Value: 200
-    Qc[1,2,15]:
-      Value: 50
-    Qc[1,2,16]:
-      Value: 50
-    Qc[1,2,17]:
-      Value: 50
-    Qc[1,2,18]:
-      Value: 50
-    Qc[1,2,19]:
-      Value: 200
-    Qc[1,2,1]:
-      Value: 200
-    Qc[1,2,2]:
-      Value: 143
-    Qc[1,2,3]:
-      Value: 200
-    Qc[1,2,4]:
-      Value: 50
-    Qc[1,2,5]:
-      Value: 57
-    Qc[1,2,6]:
-      Value: 200
-    Qc[1,2,7]:
-      Value: 50
-    Qc[1,2,8]:
-      Value: 50
-    Qc[1,2,9]:
-      Value: 50
-    Qc[1,3,0]:
-      Value: 50
-    Qc[1,3,10]:
-      Value: 200
-    Qc[1,3,11]:
-      Value: 50
-    Qc[1,3,12]:
-      Value: 50
-    Qc[1,3,13]:
-      Value: 200
-    Qc[1,3,14]:
-      Value: 50
-    Qc[1,3,15]:
-      Value: 50
-    Qc[1,3,16]:
-      Value: 200
-    Qc[1,3,17]:
-      Value: 50
-    Qc[1,3,18]:
-      Value: 200
-    Qc[1,3,19]:
-      Value: 50
-    Qc[1,3,1]:
-      Value: 50
-    Qc[1,3,2]:
-      Value: 200
-    Qc[1,3,3]:
-      Value: 200
-    Qc[1,3,4]:
-      Value: 50
-    Qc[1,3,5]:
-      Value: 179
-    Qc[1,3,6]:
-      Value: 200
-    Qc[1,3,7]:
-      Value: 50
-    Qc[1,3,8]:
-      Value: 200
-    Qc[1,3,9]:
-      Value: 50
-    Qc[1,4,0]:
-      Value: 200
-    Qc[1,4,10]:
-      Value: 50
-    Qc[1,4,11]:
-      Value: 200
-    Qc[1,4,12]:
-      Value: 50
-    Qc[1,4,13]:
-      Value: 50
-    Qc[1,4,14]:
-      Value: 120
-    Qc[1,4,15]:
-      Value: 50
-    Qc[1,4,16]:
-      Value: 200
-    Qc[1,4,17]:
       Value: 50
     Qc[1,4,18]:
       Value: 50
-    Qc[1,4,19]:
-      Value: 50
-    Qc[1,4,1]:
-      Value: 50
-    Qc[1,4,2]:
-      Value: 200
-    Qc[1,4,3]:
-      Value: 50
-    Qc[1,4,4]:
-      Value: 53
-    Qc[1,4,5]:
-      Value: 200
-    Qc[1,4,6]:
-      Value: 114
-    Qc[1,4,7]:
-      Value: 200
-    Qc[1,4,8]:
-      Value: 194
-    Qc[1,4,9]:
-      Value: 136
-    Qc[1,5,0]:
-      Value: 50
-    Qc[1,5,10]:
-      Value: 150
-    Qc[1,5,11]:
-      Value: 50
-    Qc[1,5,12]:
-      Value: 200
-    Qc[1,5,13]:
-      Value: 162
-    Qc[1,5,14]:
-      Value: 50
-    Qc[1,5,15]:
-      Value: 200
-    Qc[1,5,16]:
-      Value: 154
-    Qc[1,5,17]:
-      Value: 200
-    Qc[1,5,18]:
-      Value: 167
-    Qc[1,5,19]:
-      Value: 50
-    Qc[1,5,1]:
-      Value: 50
-    Qc[1,5,2]:
-      Value: 200
-    Qc[1,5,3]:
-      Value: 50
-    Qc[1,5,4]:
-      Value: 200
-    Qc[1,5,5]:
-      Value: 200
-    Qc[1,5,6]:
-      Value: 50
-    Qc[1,5,7]:
-      Value: 200
-    Qc[1,5,8]:
-      Value: 200
-    Qc[1,5,9]:
-      Value: 200
-    Qc[1,6,0]:
-      Value: 50
-    Qc[1,6,10]:
-      Value: 200
-    Qc[1,6,11]:
-      Value: 200
-    Qc[1,6,12]:
-      Value: 76
-    Qc[1,6,13]:
-      Value: 50
-    Qc[1,6,14]:
-      Value: 200
-    Qc[1,6,15]:
-      Value: 50
-    Qc[1,6,16]:
-      Value: 200
-    Qc[1,6,17]:
-      Value: 50
-    Qc[1,6,18]:
-      Value: 200
-    Qc[1,6,19]:
-      Value: 200
-    Qc[1,6,1]:
-      Value: 50
-    Qc[1,6,2]:
-      Value: 50
-    Qc[1,6,3]:
-      Value: 50
-    Qc[1,6,4]:
-      Value: 200
-    Qc[1,6,5]:
-      Value: 50
-    Qc[1,6,6]:
-      Value: 200
-    Qc[1,6,7]:
-      Value: 200
-    Qc[1,6,8]:
-      Value: 50
-    Qc[1,6,9]:
-      Value: 50
     Qc[1,7,0]:
-      Value: 71
+      Value: 50
     Qc[1,7,10]:
       Value: 50
     Qc[1,7,11]:
-      Value: 200
+      Value: 300
     Qc[1,7,12]:
-      Value: 200
+      Value: 176
     Qc[1,7,13]:
       Value: 50
     Qc[1,7,14]:
       Value: 50
     Qc[1,7,15]:
-      Value: 200
+      Value: 286
     Qc[1,7,16]:
       Value: 50
     Qc[1,7,17]:
-      Value: 199
-    Qc[1,7,18]:
-      Value: 200
+      Value: 82
     Qc[1,7,19]:
-      Value: 200
+      Value: 300
     Qc[1,7,1]:
       Value: 50
     Qc[1,7,2]:
@@ -993,7 +457,7 @@ Solution:
     Qc[1,7,6]:
       Value: 50
     Qc[1,7,7]:
-      Value: 157
+      Value: 50
     Qc[1,7,8]:
       Value: 50
     Qc[1,7,9]:
